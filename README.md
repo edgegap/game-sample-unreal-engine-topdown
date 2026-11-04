@@ -1,4 +1,7 @@
 # Edgegap Unreal Sample
+
+![Add Edgegap matchmaking, dedicated game servers and EOS voice chat to Unreal Engine's Top Down template.](docs/images/card.jpg)
+
 Sample Unreal integration with Edgegap. Use with one of the Edgegap plugins for Unreal Engine (the Edgegap Integration Kit, or the legacy plugin) to get your game online quickly:
 
 https://docs.edgegap.com/learn/unreal-engine-games/developer-tools
